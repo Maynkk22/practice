@@ -2,4 +2,8 @@ Hello I'm Hello
 
 I'm the KING
 
+<<<<<<< HEAD
 The king is back madafaka
+=======
+The King is back madafaka
+>>>>>>> func
